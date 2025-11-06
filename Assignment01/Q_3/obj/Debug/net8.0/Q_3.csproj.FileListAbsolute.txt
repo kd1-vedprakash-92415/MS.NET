@@ -1,0 +1,14 @@
+E:\K-DAC\my-git\MS.NET\Assignment01\Q_3\bin\Debug\net8.0\Q_3.exe
+E:\K-DAC\my-git\MS.NET\Assignment01\Q_3\bin\Debug\net8.0\Q_3.deps.json
+E:\K-DAC\my-git\MS.NET\Assignment01\Q_3\bin\Debug\net8.0\Q_3.runtimeconfig.json
+E:\K-DAC\my-git\MS.NET\Assignment01\Q_3\bin\Debug\net8.0\Q_3.dll
+E:\K-DAC\my-git\MS.NET\Assignment01\Q_3\bin\Debug\net8.0\Q_3.pdb
+E:\K-DAC\my-git\MS.NET\Assignment01\Q_3\obj\Debug\net8.0\Q_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\K-DAC\my-git\MS.NET\Assignment01\Q_3\obj\Debug\net8.0\Q_3.AssemblyInfoInputs.cache
+E:\K-DAC\my-git\MS.NET\Assignment01\Q_3\obj\Debug\net8.0\Q_3.AssemblyInfo.cs
+E:\K-DAC\my-git\MS.NET\Assignment01\Q_3\obj\Debug\net8.0\Q_3.csproj.CoreCompileInputs.cache
+E:\K-DAC\my-git\MS.NET\Assignment01\Q_3\obj\Debug\net8.0\Q_3.dll
+E:\K-DAC\my-git\MS.NET\Assignment01\Q_3\obj\Debug\net8.0\refint\Q_3.dll
+E:\K-DAC\my-git\MS.NET\Assignment01\Q_3\obj\Debug\net8.0\Q_3.pdb
+E:\K-DAC\my-git\MS.NET\Assignment01\Q_3\obj\Debug\net8.0\Q_3.genruntimeconfig.cache
+E:\K-DAC\my-git\MS.NET\Assignment01\Q_3\obj\Debug\net8.0\ref\Q_3.dll
