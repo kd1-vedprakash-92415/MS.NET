@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\K-DAC\\my-git\\MS.NET\\Assignment02\\Assignment02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1CDB3C-E84E-40BC-8F00-09CF6F954D6A}|Q2\\Q2.csproj|e:\\k-dac\\my-git\\ms.net\\assignment02\\assignment02\\q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1CDB3C-E84E-40BC-8F00-09CF6F954D6A}|Q2\\Q2.csproj|solutionrelative:q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70A357A-F7FC-4016-BE5D-FF082F429FB2}|Q_2\\Q_2.csproj|e:\\k-dac\\my-git\\ms.net\\assignment02\\assignment02\\q_2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70A357A-F7FC-4016-BE5D-FF082F429FB2}|Q_2\\Q_2.csproj|solutionrelative:q_2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70A357A-F7FC-4016-BE5D-FF082F429FB2}|Q_2\\Q_2.csproj|e:\\k-dac\\my-git\\ms.net\\assignment02\\assignment02\\q_2\\electronics_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70A357A-F7FC-4016-BE5D-FF082F429FB2}|Q_2\\Q_2.csproj|solutionrelative:q_2\\electronics_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\K-DAC\\my-git\\MS.NET\\Assignment02\\Assignment02\\Q2\\Program.cs",
+              "RelativeDocumentMoniker": "Q2\\Program.cs",
+              "ToolTip": "E:\\K-DAC\\my-git\\MS.NET\\Assignment02\\Assignment02\\Q2\\Program.cs",
+              "RelativeToolTip": "Q2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:30:04.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Electronics_Product.cs",
+              "DocumentMoniker": "E:\\K-DAC\\my-git\\MS.NET\\Assignment02\\Assignment02\\Q_2\\Electronics_Product.cs",
+              "RelativeDocumentMoniker": "Q_2\\Electronics_Product.cs",
+              "ToolTip": "E:\\K-DAC\\my-git\\MS.NET\\Assignment02\\Assignment02\\Q_2\\Electronics_Product.cs",
+              "RelativeToolTip": "Q_2\\Electronics_Product.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:25:54.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\K-DAC\\my-git\\MS.NET\\Assignment02\\Assignment02\\Q_2\\Product.cs",
+              "RelativeDocumentMoniker": "Q_2\\Product.cs",
+              "ToolTip": "E:\\K-DAC\\my-git\\MS.NET\\Assignment02\\Assignment02\\Q_2\\Product.cs",
+              "RelativeToolTip": "Q_2\\Product.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA5wCsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:24:24.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
